@@ -1,16 +1,18 @@
-### Hi there 👋
+### 👋 Hi, I'm Mateusz Marzec
+
+🔭 I’m currently working on recommender systems
+🌱 I’m currently learning Reinforcement Learning
+📫 How to reach me: mmarzec12@gmail.com
+
 
 <!--
 **mefor44/mefor44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on recommender systems
-🌱 I’m currently learning Reinforcement Learning
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-📫 How to reach me: mmarzec12@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
