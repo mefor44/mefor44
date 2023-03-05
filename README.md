@@ -1,8 +1,10 @@
 ### 👋 Hi, I'm Mateusz Marzec
 
-🔭 I’m currently working on recommender systems
-🌱 I’m currently learning Reinforcement Learning
-📫 How to reach me: mmarzec12@gmail.com
+I design and implement recommender systems to serve cutomers at scale. I am Data Scientist at Samsing Electronics R&D Center. Outside of work I love doing BJJ.
+
+* 🔭 I’m currently working on recommender systems
+* 🌱 I’m currently learning Reinforcement Learning
+* 📫 How to reach me: mmarzec12@gmail.com
 
 
 <!--
