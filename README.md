@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Mateusz Marzec
 
-I design and implement recommender systems to serve cutomers at scale. I am Research Engineer at Allegro. Outside of work I love doing BJJ 🥋.
+I design and implement recommender systems to serve cutomers at scale. I am working as a Research Engineer at Allegro. Outside of work I love doing BJJ 🥋.
 
 * 🔭 I’m currently working on recommender systems.
 * 🌱 I’m currently learning Reinforcement Learning and ML system design.
